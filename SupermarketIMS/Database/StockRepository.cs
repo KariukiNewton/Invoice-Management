@@ -21,8 +21,8 @@ namespace SupermarketIMS.Database
                     {
                         ProductID = reader.GetInt32(0),
                         Name = reader.GetString(1),
-                        Price = reader.GetDecimal(2),
-                        Quantity = reader.GetInt32(3)
+                        Quantity = reader.GetInt32(2),
+                        Price = reader.GetDecimal(3)
                     });
                 }
             }

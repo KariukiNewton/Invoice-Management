@@ -55,3 +55,4 @@ C:\Users\Karis\Desktop\Projects\School Work\3.2\Advanced App\Invoice Management 
 C:\Users\Karis\Desktop\Projects\School Work\3.2\Advanced App\Invoice Management System\SupermarketIMS\obj\Debug\net9.0-windows\SupermarketIMS.pdb
 C:\Users\Karis\Desktop\Projects\School Work\3.2\Advanced App\Invoice Management System\SupermarketIMS\obj\Debug\net9.0-windows\SupermarketIMS.genruntimeconfig.cache
 C:\Users\Karis\Desktop\Projects\School Work\3.2\Advanced App\Invoice Management System\SupermarketIMS\obj\Debug\net9.0-windows\ref\SupermarketIMS.dll
+C:\Users\Karis\Desktop\Projects\School Work\3.2\Advanced App\Invoice Management System\SupermarketIMS\obj\Debug\net9.0-windows\SupermarketIMS.sourcelink.json

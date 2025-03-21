@@ -8,6 +8,7 @@ namespace SupermarketIMS
     {
         private Button btnStockManagement;
         private Button btnCheckout;
+        private Button btnViewInvoices;
         private void InitializeComponent()
         {
             this.SuspendLayout();
@@ -39,6 +40,13 @@ namespace SupermarketIMS
             btnCheckout.Location = new System.Drawing.Point(20, 150);
             btnCheckout.Click += new EventHandler(this.BtnCheckout_Click);
             this.Controls.Add(btnCheckout);
+
+            // ✅ Button to View Invoices
+            btnViewInvoices = new Button();
+            btnViewInvoices.Text = "View Invoices";
+            btnViewInvoices.Location = new System.Drawing.Point(20, 200);
+            btnViewInvoices.Click += new EventHandler(this.BtnViewInvoices_Click);
+            this.Controls.Add(btnViewInvoices);
 
 
             this.ResumeLayout(false);

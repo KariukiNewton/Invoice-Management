@@ -22,5 +22,11 @@ namespace SupermarketIMS
             CheckoutForm checkoutForm = new CheckoutForm();
             checkoutForm.Show();
         }
+
+        public void BtnViewInvoices_Click(object sender, EventArgs e)
+        {
+            ReportsForm reportsForm = new ReportsForm();
+            reportsForm.Show();
+        }
     }
 }

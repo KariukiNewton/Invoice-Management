@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Karis\\Desktop\\Projects\\School Work\\3.2\\Advanced App\\Invoice Management System\\SupermarketIMS\\SupermarketIMS.csproj": {}
+    "C:\\Users\\Karis\\Desktop\\Projects\\School Work\\3.2\\Advanced App\\Invoice Management System\\supermarketIMS\\SupermarketIMS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Karis\\Desktop\\Projects\\School Work\\3.2\\Advanced App\\Invoice Management System\\SupermarketIMS\\SupermarketIMS.csproj": {
+    "C:\\Users\\Karis\\Desktop\\Projects\\School Work\\3.2\\Advanced App\\Invoice Management System\\supermarketIMS\\SupermarketIMS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Karis\\Desktop\\Projects\\School Work\\3.2\\Advanced App\\Invoice Management System\\SupermarketIMS\\SupermarketIMS.csproj",
+        "projectUniqueName": "C:\\Users\\Karis\\Desktop\\Projects\\School Work\\3.2\\Advanced App\\Invoice Management System\\supermarketIMS\\SupermarketIMS.csproj",
         "projectName": "SupermarketIMS",
-        "projectPath": "C:\\Users\\Karis\\Desktop\\Projects\\School Work\\3.2\\Advanced App\\Invoice Management System\\SupermarketIMS\\SupermarketIMS.csproj",
+        "projectPath": "C:\\Users\\Karis\\Desktop\\Projects\\School Work\\3.2\\Advanced App\\Invoice Management System\\supermarketIMS\\SupermarketIMS.csproj",
         "packagesPath": "C:\\Users\\Karis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Karis\\Desktop\\Projects\\School Work\\3.2\\Advanced App\\Invoice Management System\\SupermarketIMS\\obj\\",
+        "outputPath": "C:\\Users\\Karis\\Desktop\\Projects\\School Work\\3.2\\Advanced App\\Invoice Management System\\supermarketIMS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Karis\\AppData\\Roaming\\NuGet\\NuGet.Config"

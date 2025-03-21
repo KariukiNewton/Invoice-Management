@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iKCiwHvw6jY=",
+  "dgSpecHash": "KGoZVUsNFDQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Karis\\Desktop\\Projects\\School Work\\3.2\\Advanced App\\Invoice Management System\\SupermarketIMS\\SupermarketIMS.csproj",
+  "projectFilePath": "C:\\Users\\Karis\\Desktop\\Projects\\School Work\\3.2\\Advanced App\\Invoice Management System\\supermarketIMS\\SupermarketIMS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Karis\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Karis\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
